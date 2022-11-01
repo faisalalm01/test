@@ -1,0 +1,10 @@
+
+.navbar{
+    background-color: transparent;
+    color: aliceblue;
+}
+  
+.navbar.colorChange{
+    background-color: #000;
+    color: aliceblue;
+}
