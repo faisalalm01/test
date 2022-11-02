@@ -32,27 +32,27 @@ export default function Guest() {
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_dhiyo.jpeg" roundedCircle />
-          <h5>Undefined</h5>
+          <h5>Dhiya Reksa Kusumojati Brameswanto</h5>
           <p>Undefined</p>
-          <p>Undefined</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6} >
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_bayu.jpeg" roundedCircle />
-          <h5>Undefined</h5>
+          <h5>bayu Prasetyo</h5>
           <p>Undefined</p>
-          <p>Undefined</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_nazzul.png" roundedCircle />
-          <h5>Undifined</h5>
+          <h5>Nazzul Barri</h5>
           <p>undifined</p>
-          <p>undifined</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
-          <h5>Undifined</h5>
+          <h5>Arif Hidayah</h5>
           <p>undifined</p>
-          <p>undifined</p>
+          <p>Talkshow</p>
         </Col>
       </Row>
     </div>
