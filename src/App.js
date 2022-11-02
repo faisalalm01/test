@@ -23,6 +23,7 @@ function App() {
           <Route path='/Talkshow' element={<Talkshow/>} />
           <Route path='/Seminar' element={<Seminar/>} />
           <Route path='/Workshop' element={<Workshop/>} />
+          <Route path='/Jadwal' element={}
 
         </Routes>
       </Router>
