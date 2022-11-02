@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbars from '../../../components/Navbar'
-import { Row, Container, Col } from 'react-bootstrap'
+import {  Container } from 'react-bootstrap'
 // import CardBaner from '../../../components/LandingComponents/CardsBanner'
 // import SocialIconst from '../../../components/LandingComponents/SocialIconst'
 import Deslomba2 from '../../../components/Competitions/Deslomba3'
