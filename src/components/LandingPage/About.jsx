@@ -12,7 +12,9 @@ export default function About() {
                     </Col>
                     <Col xl={6}>
                         <div className="youtube-code p-5">
-                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/hisaD7uhHkw" title="DEDDY CORBUZIER PODCAST BIKIN HIDUP PENUH TEROR!! MENDING BALIK JADI PESULAP DED!!" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                            <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/hisaD7uhHkw" title="DEDDY CORBUZIER PODCAST BIKIN HIDUP PENUH TEROR!! MENDING BALIK JADI PESULAP DED!!" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                            </div>
                         </div>
                     </Col>
                 </Row>
