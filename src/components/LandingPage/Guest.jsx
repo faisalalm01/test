@@ -10,13 +10,13 @@ export default function Guest() {
           <Image className='mb-3' src="Assets/Pengisi_AI.png" roundedCircle />
           <h5>Rusnanda Farhan</h5>
           <p>Data Scientist at Sinbad</p>
-          <p>Workshop</p>
+          <p>Workshop - Artificial intellegencia</p>
         </Col>
         <Col className='p-3' xl={3} sm={6} >
           <Image className='mb-3' src="Assets/Pengisi_DataSience.png" roundedCircle />
           <h5>Rusnandi Fikri</h5>
           <p>Data Scientist at Telkom Indonesia</p>
-          <p>Workshop</p>
+          <p>Workshop - Data Science</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
@@ -25,31 +25,31 @@ export default function Guest() {
           <p>Undefined</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-          <h5>Undefined</h5>
+          <Image className='mb-3' src="Assets/Pengisi_workshop_maulana.png" roundedCircle />
+          <h5>Maulana abdul siddiq</h5>
           <p>Undefined</p>
-          <p>Undefined</p>
+          <p>Workshop - UI/UX</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_dhiyo.jpeg" roundedCircle />
           <h5>Undefined</h5>
           <p>Undefined</p>
           <p>Undefined</p>
         </Col>
         <Col className='p-3' xl={3} sm={6} >
-          <Image className='mb-3' src="Assets/profile.png" roundedCircle />
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_bayu.jpeg" roundedCircle />
           <h5>Undefined</h5>
           <p>Undefined</p>
           <p>Undefined</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_nazzul.png" roundedCircle />
           <h5>Undifined</h5>
           <p>undifined</p>
           <p>undifined</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
           <h5>Undifined</h5>
           <p>undifined</p>
           <p>undifined</p>

@@ -9,18 +9,30 @@ export default function Destalk() {
       <h1 className="text-center font-weight-bold mt-5">Deskripsi Talkshow</h1>
       <div className=" container mt-5 ">
         <Row className  ="auto text-center">
-          <Col className="">
-            <Image src="Assets/1.jpg" roundedCircle />
-            <h5>hendrawan supcipto</h5>
-            <p>Narasumber</p>
-            <p>Lorem ipsum dolor sit.</p>
-          </Col>
-          <Col className="">
-            <Image src="Assets/1.jpg" roundedCircle />
-            <h5>hendrawan supcipto</h5>
-            <p>Narasumber</p>
-            <p>Lorem ipsum dolor sit.</p>
-          </Col>
+        <Col className='p-3' xl={3} sm={6}>
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_dhiyo.jpeg" roundedCircle />
+          <h5>Undefined</h5>
+          <p>Undefined</p>
+          <p>Undefined</p>
+        </Col>
+        <Col className='p-3' xl={3} sm={6} >
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_bayu.jpeg" roundedCircle />
+          <h5>Undefined</h5>
+          <p>Undefined</p>
+          <p>Undefined</p>
+        </Col>
+        <Col className='p-3' xl={3} sm={6}>
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_nazzul.png" roundedCircle />
+          <h5>Undifined</h5>
+          <p>undifined</p>
+          <p>undifined</p>
+        </Col>
+        <Col className='p-3' xl={3} sm={6}>
+          <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
+          <h5>Undifined</h5>
+          <p>undifined</p>
+          <p>undifined</p>
+        </Col>
         </Row>
       </div>
       <div className="container">
