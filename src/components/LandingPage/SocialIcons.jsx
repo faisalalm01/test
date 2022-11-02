@@ -10,14 +10,13 @@ import {
 export default function SocialIcons() {
   return (
     <Col xl={12} className="social-icons">
-    {/* &nbsp; &nbsp; &nbsp; &nbsp; */}
-    <a href="https://fb.com/okrittim" target="_blank" rel="noopener noreferrer">
+    <a href="https://invofest@gmail.com" target="_blank" rel="noopener noreferrer">
     <FontAwesomeIcon className="fb" icon={faFacebook} />
     </a>
-    <a href="https://youtube.com/motasimfoad" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
     <FontAwesomeIcon className="git" icon={faYoutube} />
     </a>
-    <a data-toggle='tooltip-bottom' title='instagram' href="https://www.instagram.com/motasimfoad/" target="_blank" rel="noopener noreferrer">
+    <a data-toggle='tooltip-bottom' title='instagram' href="" target="_blank" rel="noopener noreferrer">
     <FontAwesomeIcon className="insta" icon={faInstagram} />
     </a>
    </Col>   

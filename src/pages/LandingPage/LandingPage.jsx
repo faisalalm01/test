@@ -28,18 +28,18 @@ export default class LandingPage extends Component {
             </Container>
           </header>
           <main className='mt-5'>
-            <CardAcara />
-            <div className='bg-dark'>
-              <About />
+            <div id='acara'>
+              <CardAcara />
             </div>
+            <About />
             <div>
               <Poster />
             </div>
-            <div className='bg-dark p-5' style={{color:'white', fontSize:'30px'}}>
+            <div className='bg-dark p-5' style={{ color: 'white', fontSize: '30px' }}>
               <div className='container'>
                 <h2><b>Tunggu Apa Lagi ?</b></h2>
-                 <p>Segera daftarkan dirimu</p>
-                <Button>TEST</Button>
+                <p>Segera daftarkan dirimu</p>
+                <Button href='#acara'>Daftar Sekarang</Button>
               </div>
             </div>
             <div>
