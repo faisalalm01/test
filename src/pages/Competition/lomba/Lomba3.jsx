@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbars from '../../../components/Navbars'
+import Navbars from '../../../components/Navbar'
 import { Row, Container, Col } from 'react-bootstrap'
-import CardBaner from '../../../components/LandingComponents/CardsBanner'
-import SocialIconst from '../../../components/LandingComponents/SocialIconst'
-import Deslomba2 from '../../../components/com/Deslomba3'
-import CardJuara3 from '../../../components/com/CardJuara3'
-import Reg3 from '../../../components/com/Reg3'
+// import CardBaner from '../../../components/LandingComponents/CardsBanner'
+// import SocialIconst from '../../../components/LandingComponents/SocialIconst'
+import Deslomba2 from '../../../components/Competitions/Deslomba3'
+import CardJuara3 from '../../../components/Competitions/CardJuara3'
+import Reg3 from '../../../components/Competitions/Reg3'
 import Footer from '../../../components/Footer'
 
 export default function Lomba3() {
@@ -13,12 +13,12 @@ export default function Lomba3() {
       <div>
           <Navbars />
           <Container className="App-header" fluid={true}>
-            <Row className="App-main">
+            {/* <Row className="App-main">
               <Col  xl={12}  className="App-center mt-5">
                 <CardBaner/>
               </Col>
                 <SocialIconst/>
-            </Row>
+            </Row> */}
         </Container>
           <Deslomba2 />
           <CardJuara3 />
