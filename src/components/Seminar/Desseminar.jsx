@@ -10,13 +10,7 @@ export default function Desseminar() {
 
 <div className=" container mt-5 ">
   <Row xs="auto text-center">
-    <Col className="">
-      <Image src="Assets/1.jpg" roundedCircle />
-      <h5>hendrawan supcipto</h5>
-      <p>Narasumber</p>
-      <p>Lorem ipsum dolor sit.</p>
-    </Col>
-    <Col className="">
+    <Col  className="">
       <Image src="Assets/1.jpg" roundedCircle />
       <h5>hendrawan supcipto</h5>
       <p>Narasumber</p>

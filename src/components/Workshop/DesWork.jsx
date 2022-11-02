@@ -10,17 +10,29 @@ export default function Deswork() {
 
       <div className=" container mt-5 ">
         <Row xs="auto text-center">
-          <Col className="">
+          <Col xl = {3} sm = {6} className="">
             <Image src="Assets/Pengisi_AI.png" roundedCircle />
             <h5>Rusnanda Farhan</h5>
             <p>Data Scientist at Sinbad</p>
             <p>Workshop</p>
           </Col>
-          <Col className="">
+          <Col xl = {3} sm = {6} className="">
             <Image src="Assets/Pengisi_DataSience.png" roundedCircle />
             <h5>Rusnandi Fikri</h5>
             <p>Data Scientist at Telkom Indonesia</p>
             <p>Workshop</p>
+          </Col>
+          <Col xl = {3} sm = {6} className="">
+            <Image src="Assets/Profile.png" roundedCircle />
+            <h5>undefined</h5>
+            <p>undefined</p>
+            <p>undefined</p>
+          </Col>
+          <Col xl = {3} sm = {6} className="">
+            <Image src="Assets/Profile.png" roundedCircle />
+            <h5>undefined</h5>
+            <p>undefined</p>
+            <p>undefined</p>
           </Col>
         </Row>
       </div>

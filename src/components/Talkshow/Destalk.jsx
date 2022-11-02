@@ -9,13 +9,25 @@ export default function Destalk() {
       <h1 className="text-center font-weight-bold mt-5">Deskripsi Talkshow</h1>
       <div className=" container mt-5 ">
         <Row className  ="auto text-center">
-          <Col className="">
+          <Col sm={6} className="">
             <Image src="Assets/1.jpg" roundedCircle />
             <h5>hendrawan supcipto</h5>
             <p>Narasumber</p>
             <p>Lorem ipsum dolor sit.</p>
           </Col>
-          <Col className="">
+          <Col sm={6} className="">
+            <Image src="Assets/1.jpg" roundedCircle />
+            <h5>hendrawan supcipto</h5>
+            <p>Narasumber</p>
+            <p>Lorem ipsum dolor sit.</p>
+          </Col>
+          <Col sm={6} className="">
+            <Image src="Assets/1.jpg" roundedCircle />
+            <h5>hendrawan supcipto</h5>
+            <p>Narasumber</p>
+            <p>Lorem ipsum dolor sit.</p>
+          </Col>
+          <Col sm={6} className="">
             <Image src="Assets/1.jpg" roundedCircle />
             <h5>hendrawan supcipto</h5>
             <p>Narasumber</p>
