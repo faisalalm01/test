@@ -1,7 +1,8 @@
 import React, { Component } from "react";
-import Banner from "../../components/Banner";
+// import Banner from "../../components/Banner";
 import Footer from "../../components/Footer";
 import Navbars from "../../components/Navbar";
+import BannerTalksow from "../../components/Talkshow/BannerTalksow";
 import Destalk from "../../components/Talkshow/Destalk";
 
 export default class Talkshow extends Component {
@@ -10,7 +11,7 @@ export default class Talkshow extends Component {
       <div>
         <div id="Talkshow">
         < Navbars/>
-        <Banner />
+        <BannerTalksow />
         </div>
         <Destalk/>
         <Footer/>

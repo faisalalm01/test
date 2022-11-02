@@ -12,7 +12,7 @@ export default function Cards() {
             <Button href="/Competition/Lomba1" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">LOMBA 1</Card.Title>
+                <Card.Title className="gold-text">Web Design Competition</Card.Title>
                 <Card.Text>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 </Card.Text>
@@ -23,7 +23,7 @@ export default function Cards() {
             <Button href="/Competition/Lomba2" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">LOMBA 2</Card.Title>
+                <Card.Title className="gold-text">Video Creative Competition</Card.Title>
                 <Card.Text>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 </Card.Text>
@@ -34,7 +34,7 @@ export default function Cards() {
             <Button href="/Competition/Lomba3" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">LOMBA 3</Card.Title>
+                <Card.Title className="gold-text">Karya Tulis Ilmiah</Card.Title>
                 <Card.Text>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 </Card.Text>

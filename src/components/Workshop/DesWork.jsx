@@ -39,7 +39,7 @@ export default function Deswork() {
       <div className="container">
         <h3 className="mt-5">HTM & FASILITAS</h3>
         <div className="m-sm-4">~
-          <p>Umum : -</p>
+          <p>Umum : 150.000,-</p>
           <p>Mahasiswa : -</p>
           <p>Pembayaran Via Transfer :</p>
           <p>No Rekening -</p>

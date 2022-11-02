@@ -19,7 +19,7 @@ export default function Guest() {
           <p>Workshop - Data Science</p>
         </Col>
         <Col className='p-3' xl={4} sm={6} >
-          <Image className='mb-3' src="Assets/Pengisi_DataSience.png" roundedCircle />
+          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
           <h5>Rusnandi Fikri</h5>
           <p>Data Scientist at Telkom Indonesia</p>
           <p>Workshop - Data Science</p>
@@ -55,19 +55,19 @@ export default function Guest() {
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={4} sm={6}>
-          <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
+          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
           <h5>Arif Hidayah</h5>
           <p>undifined</p>
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={6} sm={6}>
-          <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
+          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
           <h5>Arif Hidayah</h5>
           <p>undifined</p>
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={6} sm={6}>
-          <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
+          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
           <h5>Arif Hidayah</h5>
           <p>undifined</p>
           <p>Talkshow</p>

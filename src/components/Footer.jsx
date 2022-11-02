@@ -4,10 +4,11 @@ import SocialIcons from './LandingPage/SocialIcons'
 
 export default function Footer() {
   return (
-    <div className='bg-dark'>
-        <Col xl={12}>
-        <SocialIcons/>
-        </Col>
+    <div className='bg-dark text-center'>
+      <Col xl={12}>
+        <SocialIcons />
+        <small className='text-muted'>@invofest 2022</small>
+      </Col>
     </div>
   )
 }

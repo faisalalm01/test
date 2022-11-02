@@ -6,7 +6,7 @@ export default function About() {
         <div>
             <div className="text-center " style={{color:'white'}}>
                 <Row className="bg-dark p-5 about">
-                    <Col xl={6} className="text my-4">
+                    <Col xl={6} className="text my-5">
                         <h3>Politeknik Harapan Bersama</h3>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum reprehenderit, delectus nulla ab ea doloribus officia rem itaque ullam laborum animi labore maxime facere id dicta libero sint? Error, iusto!
                     </Col>
