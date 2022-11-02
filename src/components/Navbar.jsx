@@ -2,7 +2,7 @@ import React, { useState, Fragment } from 'react'
 import { FaBars } from 'react-icons/fa';
 import {
   Nav,
-  NavContainer, 
+  NavContainer,
   // NavLogo,
   NavItem,
   NavLinks,
@@ -13,42 +13,45 @@ import '../components/index.css'
 
 const Navbars = () => {
   const [colorChange, setColorchange] = useState(false);
-  const changeNavbarColor = () =>{
-     if(window.scrollY >= 80){
-       setColorchange(true);
-     }
-     else{
-       setColorchange(false);
-     }
+  const changeNavbarColor = () => {
+    if (window.scrollY >= 80) {
+      setColorchange(true);
+    }
+    else {
+      setColorchange(false);
+    }
   };
   window.addEventListener('scroll', changeNavbarColor);
   return (
     <Fragment>
-    <Nav className={colorChange ? 'navbar colorChange' : 'navbar'}>
-       <NavContainer>
+      <Nav className={colorChange ? 'navbar colorChange' : 'navbar'}>
+        <NavContainer>
           <MobileIcon>
-           <FaBars />
+            <FaBars />
           </MobileIcon>
           <NavMenu>
-          <NavItem>
-              <NavLinks href="/Talkshow">Talkshow</NavLinks>
+            <NavItem>
+              <NavLinks className='btn' href="/">Home</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks href="/Seminar">Seminar</NavLinks>
+              <NavLinks className='btn' href="/Talkshow">Talkshow</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks href="/Workshop">Workshop</NavLinks>
+              <NavLinks className='btn' href="/Seminar">Seminar</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks href="/Competition">Competition</NavLinks>
+              <NavLinks className='btn' href="/Workshop">Workshop</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks href="/Jadwal">Jadwal</NavLinks>
+              <NavLinks className='btn' href="/Competition">Competition</NavLinks>
+            </NavItem>
+            <NavItem>
+              <NavLinks className='btn' href="/Jadwal">Jadwal</NavLinks>
             </NavItem>
           </NavMenu>
-       </NavContainer>
-    </Nav>
-  </Fragment>
+        </NavContainer>
+      </Nav>
+    </Fragment>
   )
 }
 

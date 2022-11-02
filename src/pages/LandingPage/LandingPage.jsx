@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import '../LandingPage/index.css'
-import { Col, Container, Row } from 'react-bootstrap'
+import { Button, Col, Container, Row } from 'react-bootstrap'
 import Animate from 'react-smooth/lib/Animate'
 import CardAcara from '../../components/LandingPage/CardAcara'
 import CardBanner from '../../components/LandingPage/CardBanner'
@@ -29,11 +29,18 @@ export default class LandingPage extends Component {
           </header>
           <main className='mt-5'>
             <CardAcara />
-            <div>
-              <Poster/>
-            </div>
             <div className='bg-dark'>
-             <About/>
+              <About />
+            </div>
+            <div>
+              <Poster />
+            </div>
+            <div className='bg-dark p-5' style={{color:'white', fontSize:'30px'}}>
+              <div className='container'>
+                <h2><b>Tunggu Apa Lagi ?</b></h2>
+                 <p>Segera daftarkan dirimu</p>
+                <Button>TEST</Button>
+              </div>
             </div>
             <div>
               <Col xl={12}>
@@ -42,7 +49,7 @@ export default class LandingPage extends Component {
             </div>
           </main>
           <footer>
-              <Footer />
+            <Footer />
           </footer>
         </Animate>
       </div>

@@ -1,11 +1,10 @@
 import React from 'react'
-import {Col , Row} from 'react-bootstrap'
+import { Col, Row } from 'react-bootstrap'
 
 export default function About() {
     return (
         <div>
-            <div className="text-center pt-5 px-5 mt-5">
-                <h3>Lokasi</h3>
+            <div className="text-center pt-5 px-5 mt-5" style={{color:'white'}}>
                 <Row className="my-5">
                     <Col xl={6} className="text my-4">
                         <h3>Politeknik Harapan Bersama</h3>
@@ -14,11 +13,8 @@ export default function About() {
                     </Col>
                     <Col xl={6}>
                         <div className="google-map-code">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3396.517661957221!2d109.10457342636109!3d-6.868657552651337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb9e2805c1c1b%3A0xe3e61e1ae59106ff!2sPoliteknik%20Harapan%20Bersama!5e0!3m2!1sid!2sid!4v1661408853023!5m2!1sid!2sid" width="100%" height="400" title='peta phb' style={{
-                                border: 0, borderRadius: 15,
-                                borderColor: 'red'
-                            }}
-                                allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                       
+                        <iframe width="70%" height="70%" src="https://www.youtube.com/embed/hisaD7uhHkw" title="DEDDY CORBUZIER PODCAST BIKIN HIDUP PENUH TEROR!! MENDING BALIK JADI PESULAP DED!!" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                         </div>
                     </Col>
                 </Row>

@@ -71,6 +71,10 @@
   line-height: 1.5;
 }
 
+p h1 h2 h3 {
+  font-family: monospace;
+}
+
 
 /* @tailwind base;
 @tailwind components;

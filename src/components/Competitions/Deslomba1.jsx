@@ -14,12 +14,7 @@ export default function Deslomba1() {
                   Consequatur, nesciunt dignissimos laborum doloribus ad earum totam repudiandae voluptatibus soluta?
                   Illum doloremque ut voluptates quo?
           Minus porro veniam maiores illum eligendi. Voluptates veniam reiciendis maxime eum sequi et ipsa deserunt quo.</p>
-        <h3 className=' font-weight-bold'>Timeline Lomba</h3>
-        <p>Lorem ipsum dolor sit,
-          amet consectetur adipisicing elit.
-          Ea consequuntur est,
-          nihil aspernatur cupiditate ex voluptate?
-          Ipsum animi tempore quo.</p>
+        <button className='btn btn-primary'>Guide book</button>
         
           </div>
     </div>
