@@ -17,14 +17,14 @@ function App() {
       <Router>
         <Routes>
           <Route path='/' element={<LandingPage/>} />
-          <Route path='/Competition' element={<Competition/>}/>
-          <Route path='/Competition/lomba1' element={<Lomba1/>}/>
-          <Route path='/Competition/lomba2' element={<Lomba2/>}/>
-          <Route path='/Competition/lomba3' element={<Lomba3/>}/>
-          <Route path='/Talkshow' element={<Talkshow/>} />
-          <Route path='/Seminar' element={<Seminar/>} />
-          <Route path='/Workshop' element={<Workshop/>} />
-          <Route path='/Jadwal' element={<Jadwal/>} />
+          <Route path='Competition' element={<Competition/>}/>
+          <Route path='Competition/lomba1' element={<Lomba1/>}/>
+          <Route path='Competition/lomba2' element={<Lomba2/>}/>
+          <Route path='Competition/lomba3' element={<Lomba3/>}/>
+          <Route path='Talkshow' element={<Talkshow/>} />
+          <Route path='Seminar' element={<Seminar/>} />
+          <Route path='Workshop' element={<Workshop/>} />
+          <Route path='Jadwal' element={<Jadwal/>} />
 
         </Routes>
       </Router>
