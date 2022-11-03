@@ -38,7 +38,7 @@ export default function CardAcara() {
             <img src="./Assets/icons/trophy.png" alt="it competition" className="icons-acara" />
               <Card.Title className="gold-text">IT COMPETITION</Card.Title>
               <Card.Text>
-               E-Sport, Web Design,
+               Karya Tulis Ilmiah (KTI), Web Design, Video Kreatif
               </Card.Text>
             </Card.Body>
             </Button>

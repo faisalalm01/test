@@ -5,14 +5,14 @@ export default function Reg1() {
     <div>
       <div className="container mt-5">
         <h3>Info Registrasi</h3>
-        <p>Biaya Registrasi : 150.000,-/tim</p>
+        <p>Biaya Registrasi : - /tim</p>
         <p>Pembayaran via transfer:</p>
-        <p>No Rekening 9281-7923-231212-12-2 a/n Sity julihah(BRI)</p>
+        <p>No Rekening -</p>
         <p>Konfirmasi Pembayaran:</p>
-        <p>Wa : Via CP</p>
-        <p>email : invofest@gmail.com</p>
+        <p>Wa : - </p>
+        <p>email : - </p>
         <h3>Contact Person</h3>
-        <p>sihjah : 0895-7353-8634</p>
+        <p>-</p>
       </div>
     </div>
   );
