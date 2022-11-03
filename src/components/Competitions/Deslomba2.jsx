@@ -7,9 +7,11 @@ export default function Deslomba2() {
           <h2 className='text-center container font-weight-bold'> Deskripsi Lomba Video Creative</h2>
           <div className="container mt-5">
           <h3 className=' font-weight-bold'>Penjelasan Umum</h3>
-          <p>Lorem ipsum dolor
-              sit amet consectetur adipisicing elit.
-                  Officiis ex ullam iste excepturi voluptate vel eaque magnam unde omnis quidem?</p>
+          <p>VIDEO KREATIF MERUPAKAN GABUNGAN ANTARA GAMBAR SERTA AUDIO YANG
+              TERMUAT DIDALAMNYA. VIDEO KREATIF SAAT INI MERUPAKAN KONTEN YANG PALING
+                BANYAK DIMINATI OLEH MASYARAKAT PENGGUNA INTERNET DISELURUH PENJURUH
+                DUNIA. TIDAK HANYA SUARA YANG SEKALIGUS BISA DITERIMA OLEH AUDIENS,
+                INFORMASI DAN PESAN AKAN LEBIH MUDAH DITAMPILKAN DENGAN GAMBAR.</p>
               <h3 className=' font-weight-bold'>Penjelasan Lomba </h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Consequatur, nesciunt dignissimos laborum doloribus ad earum totam repudiandae voluptatibus soluta?
