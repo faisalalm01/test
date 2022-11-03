@@ -12,9 +12,10 @@ export default function Cards() {
             <Button href="/Competition/Lomba1" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">Web Design Competition</Card.Title>
+                <Card.Title className="gold-text"><b>WEB DESIGN COMPETITION</b></Card.Title>
                 <Card.Text>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Desain web adalah suatu desain tata kelola tampilan konten-konten pada website yang akan ditampilkan
+                  kepada client atau penerima informasi melalui world wide web.
                 </Card.Text>
               </Card.Body>
             </Button>
@@ -23,9 +24,11 @@ export default function Cards() {
             <Button href="/Competition/Lomba2" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">Video Creative Competition</Card.Title>
+                <Card.Title className="gold-text"><b>VIDEO CREATIVE COMPETITION</b></Card.Title>
                 <Card.Text>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  VIDEO KREATIF MERUPAKAN GABUNGAN ANTARA GAMBAR SERTA AUDIO YANG
+                  TERMUAT DIDALAMNYA.
+                  video kreatif merupakan gambaran serta audio yang termuat di dalamnya.
                 </Card.Text>
               </Card.Body>
             </Button>
@@ -34,9 +37,10 @@ export default function Cards() {
             <Button href="/Competition/Lomba3" className="border shadow-lg bg-dark mb-3"
               style={{ height: '100%', width: "100%" }}>
               <Card.Body >
-                <Card.Title className="gold-text">Karya Tulis Ilmiah</Card.Title>
+                <Card.Title className="gold-text"><b>KARYA TULIS ILMIAH</b></Card.Title>
                 <Card.Text>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Karya tulis yang dibuat untuk memecahkan suatu permasalahan dengan
+                  landasan teori, metode ilmiah, dan contoh metode penulisan karya ilmiah.
                 </Card.Text>
               </Card.Body>
             </Button>

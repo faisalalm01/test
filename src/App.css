@@ -81,7 +81,7 @@ p h1 h2 h3 {
 }
 
 body{
-  /* background: url('../public/Assets/backgroundweb.jpg'); */
+  background: url('../public/Assets/background.jpg');
   background-size: cover;
 }
 /* @tailwind base;
