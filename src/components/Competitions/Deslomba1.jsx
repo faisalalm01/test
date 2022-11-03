@@ -54,6 +54,7 @@ PENGUMPULAN</p>
           <h6>C.) PENGUMUMANJUARA 1, 2, 3 DAN PEMBERIAN SERTIFIKAT + UANG PEMBINAAN</h6>
           <p>&bull; PANITIA MEMILIKI HAK UNTUK MEMPUBLIKASIKAN KARYA PESERTA YANG SUDAH DIBUAT
 DENGAN TETAP MENCANTUMKAN NAMA PEMILIK KARYA.</p>
+<br />
         <Button href='https://drive.google.com/file/d/178QWTAcff5A-gP0RrZ56OEPLv4nfrmbN/view?usp=share_link' className='btn btn-primary'>Guide book</Button>
 
       </div>
