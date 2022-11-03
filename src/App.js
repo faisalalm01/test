@@ -9,6 +9,7 @@ import Workshop from './pages/Workshop/Workshop';
 import Lomba1 from './pages/Competition/lomba/Lomba1';
 import Lomba2 from './pages/Competition/lomba/Lomba2'
 import Lomba3 from './pages/Competition/lomba/Lomba3';
+import JadwalPage from './pages/Jadwal/JadwalPage';
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
           <Route path='/Talkshow' element={<Talkshow/>} />
           <Route path='/Seminar' element={<Seminar/>} />
           <Route path='/Workshop' element={<Workshop/>} />
-          <Route path='/Jadwal' element={}
+          <Route path='/Jadwal' element={<JadwalPage/>}/>
 
         </Routes>
       </Router>
