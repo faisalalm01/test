@@ -60,7 +60,7 @@ export default function Guest() {
           <p>Game Developer</p>
           <p>Workshop - Game dev</p>
         </Col>
-        <Col className='p-3' xl={6} sm={6} >
+        <Col className='p-3' xl={6} sm={6}  >
           <Image className='mb-3' src="Assets/seminar_Supatno.jpeg" roundedCircle />
           <h5>Supatmo Cahyono</h5>
           <p>UI/UX Designer Lead Kitabisa</p>

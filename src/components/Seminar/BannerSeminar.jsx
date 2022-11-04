@@ -15,7 +15,7 @@ export default function BannerSeminar() {
           longer.
         </p>
         <div className="d-grid gap-2 col-6 mx-auto">
-          <Button href='/' className="btn btn-primary" type="button">
+          <Button href='https://bit.ly/SEMINARTALKSHOW2022' className="btn btn-primary" type="button">
             Daftar
           </Button>
         </div>

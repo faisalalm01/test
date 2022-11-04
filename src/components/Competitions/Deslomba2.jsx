@@ -43,7 +43,7 @@ BERLAKU.</p>
                 <li>	VIDEO TERBAIK DAN VIDEO PEROLEHAN LIKE YTERBANYAK AKAN MENDAPATKAN PENGHARGAAN.</li>
               </ol>
               <br />
-          <Button href='' className='btn btn-primary'>Guide book</Button>
+          <Button href='https://drive.google.com/file/d/1dtsw6FCcPut_wtwla2IWDwqouCUggFd9/view?usp=share_link' className='btn btn-primary'>Guide book</Button>
 
         
           </div>

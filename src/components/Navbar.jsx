@@ -34,19 +34,19 @@ const Navbars = () => {
               <NavLinks className='' href="/">Home</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks className='' href="Talkshow">Talkshow</NavLinks>
+              <NavLinks className='' href="/Talkshow">Talkshow</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks className='' href="Seminar">Seminar</NavLinks>
+              <NavLinks className='' href="/Seminar">Seminar</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks className='' href="Workshop">Workshop</NavLinks>
+              <NavLinks className='' href="/Workshop">Workshop</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks className='' href="Competition">Competition</NavLinks>
+              <NavLinks className='' href="/Competition">Competition</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks className='' href="Jadwal">Jadwal</NavLinks>
+              <NavLinks className='' href="/Jadwal">Jadwal</NavLinks>
             </NavItem>
           </NavMenu>
         </NavContainer>

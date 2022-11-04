@@ -55,7 +55,7 @@ export default function Deslomba1() {
         <p>&bull; PANITIA MEMILIKI HAK UNTUK MEMPUBLIKASIKAN KARYA PESERTA YANG SUDAH DIBUAT
           DENGAN TETAP MENCANTUMKAN NAMA PEMILIK KARYA.</p>
         <br />
-        <Button href='' className='btn btn-primary'>Guide book</Button>
+        <Button href='https://drive.google.com/file/d/1MvacrGRQbIkCaehhC_BNZJ1-ftZ6KHhw/view?usp=sharing' className='btn btn-primary'>Guide book</Button>
 
       </div>
     </div>

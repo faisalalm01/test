@@ -47,7 +47,11 @@ export default function Deswork() {
         <div className="m-sm-4">
           <p>Umum : 150.000,-</p>
           <p>Pembayaran Via Transfer :</p>
-          <p>No Rekening Bank Mandiri 1390026107429 (a/n Ahmad Faozann)</p>
+          <p>- MANDIRI : 1390026107429 (A/N AHMAD FAOZAN) </p>
+          <p>- OVO : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- DANA : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- SHOPEE PAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- GOPAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
           <p>Konfirmasi Pembayaran :</p>
           <p>Wa : -</p>
           <p>Email : -</p>
