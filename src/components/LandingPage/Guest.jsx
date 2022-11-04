@@ -18,12 +18,6 @@ export default function Guest() {
           <p>Data Scientist at Telkom Indonesia</p>
           <p>Workshop - Data Science</p>
         </Col>
-        <Col className='p-3' xl={4} sm={6} >
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-          <h5>Undifined</h5>
-          <p>undifined</p>
-          <p>Seminar</p>
-        </Col>
         <Col className='p-3' xl={4} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_workshop_maulana.png" roundedCircle />
           <h5>Maulana abdul siddiq</h5>
@@ -60,11 +54,17 @@ export default function Guest() {
           <p>Game Developer</p>
           <p>Workshop - Game dev</p>
         </Col>
-        <Col className='p-3' xl={6} sm={6}>
+        <Col className='p-3' xl={4} sm={6}>
           <Image className='mb-3' src="Assets/Dimas.jpeg" roundedCircle />
           <h5>Dimas Shofa Gunarso</h5>
           <p>Game Developer</p>
           <p>Workshop - Game dev</p>
+        </Col>
+        <Col className='p-3' xl={6} sm={6} >
+          <Image className='mb-3' src="Assets/seminar_Supatno.jpeg" roundedCircle />
+          <h5>Supatmo Cahyono</h5>
+          <p>UI/UX Designer Lead Kitabisa</p>
+          <p>Seminar</p>
         </Col>
         <Col className='p-3' xl={6} sm={12}>
           <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />

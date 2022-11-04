@@ -17,7 +17,6 @@ export default function Reg3() {
         <p>email : - </p>
         <h3>Contact Person</h3>
         <p>- 085225778051 (TRI HESTI WAHYUNINGSIH)</p>
-        <p>- 082314923655 (FAJAR SIDIQ)</p>
       </div>
     </div>
   );

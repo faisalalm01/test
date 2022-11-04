@@ -6,7 +6,7 @@ import Row from "react-bootstrap/Row";
 export default function Destalk() {
   return (
     <div>
-      <h1 className="text-center font-weight-bold mt-5">Deskripsi Talkshow</h1>
+      <h1 className="text-center font-weight-bold mt-5">Pengisi Talkshow</h1>
       <div className=" container mt-5 ">
         <Row className="auto text-center">
         <Col className='p-3' xl={3} sm={6}>

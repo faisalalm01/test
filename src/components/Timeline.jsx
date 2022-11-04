@@ -13,7 +13,14 @@ export default function Timeline() {
                 <div class="timeline__component timeline__component--bg">
                     <h2 class="timeline__title">Pendaftaran</h2>
                     <p class="timeline__paragraph">
-
+                        <li>Seminar</li>
+                        <li>Talkshow</li>
+                        <li>Workshop</li>
+                        <li>Competition</li>
+                    </p>
+                    <h2 class="timeline__title">Pengumpulan</h2>
+                    <p class="timeline_paragraph">
+                        <li>Competition(25 November, 2022)</li>
                     </p>
                 </div>
                 <div class="timeline__component timeline__component--bg">

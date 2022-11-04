@@ -6,7 +6,7 @@ import Row from "react-bootstrap/Row";
 export default function Desseminar() {
   return (
     <div>
-      <h1 className="text-center font-weight-bold mt-5">Deskripsi Seminar</h1>
+      <h1 className="text-center font-weight-bold mt-5">Pengisi Seminar</h1>
 
       <div className=" container mt-5 ">
         <Row xs="auto text-center">
@@ -16,11 +16,11 @@ export default function Desseminar() {
             <p>CEO at Central AI</p>
             <p>Seminar - </p>
           </Col>
-          <Col className='p-3' xl={6} sm={6}>
-            <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-            <h5>Arif Hidayah</h5>
-            <p>undifined</p>
-            <p>Talkshow</p>
+          <Col className='p-3' xl={6} sm={6} >
+            <Image className='mb-3' src="Assets/seminar_Supatno.jpeg" roundedCircle />
+            <h5>Supatmo Cahyono</h5>
+            <p>UI/UX Designer Lead Kitabisa</p>
+            <p>Seminar</p>
           </Col>
         </Row>
       </div>

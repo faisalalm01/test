@@ -6,7 +6,7 @@ import Row from "react-bootstrap/Row";
 export default function Deswork() {
   return (
     <div>
-      <h1 className="text-center font-weight-bold mt-5">Deskripsi Workshop</h1>
+      <h1 className="text-center font-weight-bold mt-5">Pengisi Workshop</h1>
 
       <div className=" container mt-5 ">
         <Row xs="auto text-center">
