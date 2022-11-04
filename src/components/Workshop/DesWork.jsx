@@ -2,6 +2,7 @@ import React from 'react'
 import Image from "react-bootstrap/Image";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
+import Deskripsi from '../Deskripsi';
 
 export default function Deswork() {
   return (
@@ -42,22 +43,24 @@ export default function Deswork() {
           </Col>
         </Row>
       </div>
-      <div className="container">
-        <h3 className="mt-5">HTM & FASILITAS</h3>
-        <div className="m-sm-4">
-          <p>Umum : 150.000,-</p>
-          <p>Pembayaran Via Transfer :</p>
-          <p>No Rekening Bank Mandiri 1390026107429 (a/n Ahmad Faozann)</p>
-          <p>Konfirmasi Pembayaran :</p>
-          <p>Wa : -</p>
-          <p>Email : -</p>
-          <p>Fasilitas : Ilmu & Snack </p>
-        </div>
-        <h3 className='mt-5'>Contact Person </h3>
-        <div className="m-sm-4">
-          <p>  0823-2390-7128 (Nur Halisah Fasya)  </p>
-        </div>
-      </div>
+      <Deskripsi
+        Judul="Workshop Artificial Intelligence"
+        Pemateri="Pemateri : Rusnanda Farhan (Data Scientist at Sinbad )"
+        Tempat="Tempat  : Gedung D Lt.3 Lab Komputer D1 Politeknik Harapan Bersama Tegal"
+        Hari="Hari : Selasa"
+        Tanggal="Tanggal : 25 Oktober 2022"
+        HTM="HTM  :   200.000"
+        contact="08984182517 (Dani)"
+      />
+      <Deskripsi
+        Judul=" Workshop Data Science"
+        Pemateri="Pemateri : Rusnandi Fikri (Data Scientist at Telkom Indonesia )"
+        Tempat="Tempat  : Gedung D Lt.3 Lab Komputer D2 Politeknik Harapan Bersama Tegal"
+        Hari="Hari : Selasa"
+        Tanggal="Tanggal : 25 Oktober 2022"
+        HTM="HTM  :   200.000"
+        contact="089526266192 (Maulana)"
+      />
     </div>
-  )
+  );
 }
