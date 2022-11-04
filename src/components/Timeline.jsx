@@ -24,12 +24,12 @@ export default function Timeline() {
                     </p>
                 </div>
                 <div className="timeline__component timeline__component--bg">
-                    <h2 className="timeline__title"></h2>
+                    <h2 className="timeline__title">a</h2>
                     <p className="timeline__paragraph">
-
+                        a
                     </p>
                     <p className="timeline__paragraph">
-
+                        a
                     </p>
                 </div>
                 <div className="timeline__middle">
@@ -53,10 +53,10 @@ export default function Timeline() {
                 <div className="timeline__component timeline__component--bottom timeline__component--bg">
                     <h2 className="timeline__title">w</h2>
                     <p className="timeline__paragraph">
-
+                        a
                     </p>
                     <p className="timeline__paragraph">
-
+                        a
                     </p>
                 </div>
                 <div className="timeline__middle">
