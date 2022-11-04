@@ -9,7 +9,7 @@ export default function Lokasi() {
                 <Row className="my-5">
                     <Col xl={6} className="text my-5">
                         <h3>Politeknik Harapan Bersama</h3>
-                        <p>
+                        <p style={{fontSize:'20px'}}>
                          Jl. Mataram No.9, Kel. pesurungan lor, Kel. Pesurungan Lor,
                         Pesurungan Lor, Margadana, Kota Tegal, Jawa Tengah 52147
                         </p>

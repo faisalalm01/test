@@ -12,7 +12,7 @@ export default function Destalk() {
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_dhiyo.jpeg" roundedCircle />
           <h5>Dhiya Reksa Kusumojati Brameswanto</h5>
-          <p>Undefined</p>
+          <p>Frontend Developer Maxxi Tani</p>
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6} >
@@ -24,13 +24,13 @@ export default function Destalk() {
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_nazzul.png" roundedCircle />
           <h5>Nazzul Barri</h5>
-          <p>undifined</p>
+          <p>Software Engineer at PT. NOCOLA IoT SOLUTION</p>
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
           <h5>Arif Hidayah</h5>
-          <p>undifined</p>
+          <p>Web Developer at Dinas Sosial</p>
           <p>Talkshow</p>
         </Col>
         </Row>

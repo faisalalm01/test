@@ -98,7 +98,7 @@ export default function Deslomba3() {
              <p>&bull; -	5 TIM YANG LOLOS TAHAP FINAL WAJIB MELAKUKAN PRESENTASI DAN SESI TANYA JAWAB SECARA ONLINE (LINK ZOOM)</p>
              <h6>E.) PENGUMUMAN JUARA 1, 2, 3 DAN PEMBERIAN E-SERTIFIKAT + UANG PEMBINAAN </h6>
              <br />
-          <Button href='https://drive.google.com/file/d/19IIsL98KyzBfjnUv3U3gKBy2mfqw8LOt/view?usp=share_link' className='btn btn-primary'>Guide book</Button>
+          <Button href='' className='btn btn-primary'>Guide book</Button>
 
         
           </div>

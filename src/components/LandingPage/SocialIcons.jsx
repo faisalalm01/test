@@ -13,7 +13,7 @@ export default function SocialIcons() {
     <a href="https://invofest@gmail.com" target="_blank" rel="noopener noreferrer">
     <FontAwesomeIcon className="fb" icon={faGoogle} />
     </a>
-    <a href="/" target="_blank" rel="noopener noreferrer">
+    <a href="/" target="_blank" title='' rel="noopener noreferrer">
     <FontAwesomeIcon className="git" icon={faYoutube} />
     </a>
     <a data-toggle='tooltip-bottom' title='instagram' href="/" target="_blank" rel="noopener noreferrer">

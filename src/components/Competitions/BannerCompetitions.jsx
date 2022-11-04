@@ -16,7 +16,7 @@ export default class BannerCompetition extends Component {
               longer.
             </p> */}
             <div className="d-grid gap-2 col-6 mx-auto">
-              <a type="button" className="btn btn-primary" href="https://bit.ly/m/FORMINVOFEST2022">
+              <a type="button" className="btn btn-primary" href="">
                 Daftar Lomba
               </a>
             </div>
