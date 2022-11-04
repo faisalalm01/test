@@ -11,10 +11,10 @@ export default function Desseminar() {
       <div className=" container mt-5 ">
         <Row xs="auto text-center">
           <Col className='p-3' xl={6} sm={6}>
-            <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-            <h5>Arif Hidayah</h5>
-            <p>undifined</p>
-            <p>Talkshow</p>
+            <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />
+            <h5>Salwa Ziada Salsabilla</h5>
+            <p>CEO at Central AI</p>
+            <p>Seminar - </p>
           </Col>
           <Col className='p-3' xl={6} sm={6}>
             <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
@@ -27,20 +27,19 @@ export default function Desseminar() {
       <div className="container">
         <h3 className="mt-5">HTM & FASILITAS</h3>
         <div className="m-sm-4">
-          <p>Umum : - </p>
-          <p>Mahasiswa : -</p>
+          <p>Umum : 50.000,- </p>
+          {/* <p>Mahasiswa : -</p> */}
           <p>Pembayaran Via Transfer :</p>
-          <p>No Rekening -</p>
-          {/* <p>sumarti harjo (BRI)</p> */}
-          <p>Konfirmasi Pembayaran :</p>
+          <p>- MANDIRI : 1390026107429 (A/N AHMAD FAOZAN) </p>
+          <p>- OVO : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- DANA : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- SHOPEE PAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- GOPAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>Konfirmasi Pembayaran:</p>
           <p>Wa : - </p>
-          <p>Email : -</p>
-          <p>Fasilitas : Ilmu & Snack </p>
-        </div>
-        <h3 className='mt-5'>Contact Person </h3>
-        <div className="m-sm-4">
-          <p>-</p>
-          <p>-</p>
+          <p>email : - </p>
+          <h3>Contact Person</h3>
+          <p> 0877-4994-3994 (Anggit Rief)</p>
         </div>
       </div>
     </div>

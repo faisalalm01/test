@@ -26,8 +26,6 @@ export default function Cards() {
               <Card.Body >
                 <Card.Title className="gold-text"><b>VIDEO CREATIVE COMPETITION</b></Card.Title>
                 <Card.Text>
-                  VIDEO KREATIF MERUPAKAN GABUNGAN ANTARA GAMBAR SERTA AUDIO YANG
-                  TERMUAT DIDALAMNYA.
                   video kreatif merupakan gambaran serta audio yang termuat di dalamnya.
                 </Card.Text>
               </Card.Body>

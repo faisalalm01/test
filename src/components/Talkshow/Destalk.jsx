@@ -8,50 +8,49 @@ export default function Destalk() {
     <div>
       <h1 className="text-center font-weight-bold mt-5">Deskripsi Talkshow</h1>
       <div className=" container mt-5 ">
-        <Row className  ="auto text-center">
+        <Row className="auto text-center">
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_dhiyo.jpeg" roundedCircle />
-          <h5>Undefined</h5>
+          <h5>Dhiya Reksa Kusumojati Brameswanto</h5>
           <p>Undefined</p>
-          <p>Undefined</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6} >
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_bayu.jpeg" roundedCircle />
-          <h5>Undefined</h5>
-          <p>Undefined</p>
-          <p>Undefined</p>
+          <h5>Bayu Adi Prasetyo</h5>
+          <p>Lead Software Development at Harian Kompas</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_nazzul.png" roundedCircle />
-          <h5>Undifined</h5>
+          <h5>Nazzul Barri</h5>
           <p>undifined</p>
-          <p>undifined</p>
+          <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_arif.jpeg" roundedCircle />
-          <h5>Undifined</h5>
+          <h5>Arif Hidayah</h5>
           <p>undifined</p>
-          <p>undifined</p>
+          <p>Talkshow</p>
         </Col>
         </Row>
       </div>
       <div className="container">
         <h3 className="mt-5">HTM & FASILITAS</h3>
         <div className="m-sm-4">
-          <p>Umum : -</p>
-          <p>Mahasiswa : -</p>
+          <p>Umum : 30.000,-</p>
+          {/* <p>Mahasiswa : -</p> */}
           <p>Pembayaran Via Transfer :</p>
-          <p>No Rekening -</p>
-          {/* <p>sumarti harjo (BRI)</p> */}
-          <p>Konfirmasi Pembayaran :</p>
-          <p>Wa : -</p>
-          <p>Email : -</p>
-          <p>Fasilitas : Ilmu & Snack </p>
-        </div>
-        <h3 className='mt-5'>Contact Person </h3>
-        <div className="m-sm-4">
-          <p> - </p>
-          <p> - </p>
+          <p>- MANDIRI : 1390026107429 (A/N AHMAD FAOZAN) </p>
+          <p>- OVO : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- DANA : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- SHOPEE PAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>- GOPAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
+          <p>Konfirmasi Pembayaran:</p>
+          <p>Wa : - </p>
+          <p>email : - </p>
+          <h3>Contact Person</h3>
+          <p> 0877-4994-3994 (Anggit Rief)</p>
         </div>
       </div>
     </div>

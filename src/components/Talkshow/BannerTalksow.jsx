@@ -15,7 +15,7 @@ export default function BannerTalksow() {
                         longer.
                     </p>
                     <div className="d-grid gap-2 col-6 mx-auto">
-                        <Button href='/' className="btn btn-primary" type="button">
+                        <Button href='' className="btn btn-primary" type="button">
                             Daftar
                         </Button>
                     </div>

@@ -38,8 +38,8 @@ export default function Guest() {
         </Col>
         <Col className='p-3' xl={4} sm={6} >
           <Image className='mb-3' src="Assets/Pengisi_Talkshow_bayu.jpeg" roundedCircle />
-          <h5>bayu Prasetyo</h5>
-          <p>Undefined</p>
+          <h5>Bayu Adi Prasetyo</h5>
+          <p>Lead Software Development at Harian Kompas</p>
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={4} sm={6}>
@@ -55,22 +55,22 @@ export default function Guest() {
           <p>Talkshow</p>
         </Col>
         <Col className='p-3' xl={4} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-          <h5>Arif Hidayah</h5>
+          <Image className='mb-3' src="Assets/ilham.jpeg" roundedCircle />
+          <h5>Ilham Hadif Pamulia</h5>
           <p>undifined</p>
-          <p>Talkshow</p>
+          <p>Workshop - Game dev</p>
         </Col>
         <Col className='p-3' xl={6} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-          <h5>Arif Hidayah</h5>
+          <Image className='mb-3' src="Assets/Dimas.jpeg" roundedCircle />
+          <h5>Dimas Shofa Gunarso</h5>
           <p>undifined</p>
-          <p>Talkshow</p>
+          <p>Workshop - Game dev</p>
         </Col>
         <Col className='p-3' xl={6} sm={6}>
-          <Image className='mb-3' src="Assets/Profile.png" roundedCircle />
-          <h5>Arif Hidayah</h5>
-          <p>undifined</p>
-          <p>Talkshow</p>
+          <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />
+          <h5>Salwa Ziada Salsabilla</h5>
+          <p>CEO at Central AI</p>
+          <p>Seminar - </p>
         </Col>
       </Row>
     </div>
