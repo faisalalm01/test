@@ -19,7 +19,7 @@ export default function Deswork() {
           <Col className='p-3' xl={4} sm={6}>
             <Image className='mb-3' src="Assets/Pengisi_workshop_maulana.png" roundedCircle />
             <h5>Maulana abdul siddiq</h5>
-            <p>Undefined</p>
+            <p>UI/UX Designer Stockbit & Bibit.id</p>
             <p>Workshop - UI/UX</p>
           </Col>
           <Col className='p-3' xl={4} sm={6} >
