@@ -5,7 +5,7 @@ export default function Timeline() {
         <div>
             <div className="timeline">
                 <div className="timeline__component">
-                    <div className="timeline__date timeline__date--right">1 - 25 November, 2022</div>
+                    <div className="timeline__date timeline__date--right">1 - 25 November 2022</div>
                 </div>
                 <div className="timeline__middle">
                     <div className="timeline__point"></div>
@@ -24,19 +24,24 @@ export default function Timeline() {
                     </p>
                 </div>
                 <div className="timeline__component timeline__component--bg">
-                    <h2 className="timeline__title">a</h2>
+                    <h2 className="timeline__title">Acara</h2>
                     <p className="timeline__paragraph">
-                        a
+                        <li>Talkshow</li>
                     </p>
                     <p className="timeline__paragraph">
-                        a
+                        <li>Workshop</li>
+                        <ol >
+                            <li>Workshop - Data Science</li>
+                            <li>Workshop - Artificial Intelegence</li>
+                            <li>Workshop - UI/UX</li>
+                        </ol>
                     </p>
                 </div>
                 <div className="timeline__middle">
                     <div className="timeline__point"></div>
                 </div>
                 <div className="timeline__component">
-                    <div className="timeline__date">November 29, 2022</div>
+                    <div className="timeline__date">28 - 29 November 2022</div>
                 </div>
                 <div className="timeline__component">
                     <div className="timeline__date timeline__date--right">November 30, 2022</div>
@@ -45,19 +50,21 @@ export default function Timeline() {
                     <div className="timeline__point"></div>
                 </div>
                 <div className="timeline__component timeline__component--bg">
-                    <h2 className="timeline__title">a</h2>
+                    <h2 className="timeline__title">Acara</h2>
                     <p className="timeline__paragraph">
-
+                        <li>Workshop - Game Development</li>
                     </p>
+                        <h2 className="timeline__title">Final Comptition</h2>
+                        <li>Innovation Technology - Produk</li>
+                        <li>Web Design Competition</li>
                 </div>
                 <div className="timeline__component timeline__component--bottom timeline__component--bg">
-                    <h2 className="timeline__title">w</h2>
+                    <h2 className="timeline__title">Acara</h2>
                     <p className="timeline__paragraph">
-                        a
+                        <li>Seminar</li>
+                        <li>Penutupan</li>
                     </p>
-                    <p className="timeline__paragraph">
-                        a
-                    </p>
+                    
                 </div>
                 <div className="timeline__middle">
                     <div className="timeline__point"></div>

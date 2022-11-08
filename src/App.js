@@ -16,6 +16,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<LandingPage/>} />
+          <Route index element={<LandingPage/>}/>
           <Route path='Competition' element={<Competition/>}/>
           <Route path='Competition/lomba1' element={<Lomba1/>}/>
           <Route path='Competition/lomba2' element={<Lomba2/>}/>
