@@ -31,19 +31,19 @@ export default function Deswork() {
           <Col className='p-3' xl={4} sm={6}>
             <Image className='mb-3' src="Assets/ilham.jpeg" roundedCircle />
             <h5>Ilham Hadif Pamulia</h5>
-            <p>undifined</p>
+            <p>Game Developer</p>
             <p>Workshop - Game dev</p>
           </Col>
           <Col className='p-3' xl={4} sm={6}>
             <Image className='mb-3' src="Assets/Dimas.jpeg" roundedCircle />
             <h5>Dimas Shofa Gunarso</h5>
-            <p>undifined</p>
+            <p>Game Developer</p>
             <p>Workshop - Game dev</p>
           </Col>
           <Col className='p-3' xl={4} sm={6}>
             <Image className='mb-3' src="Assets/Workshop_TegarPrasetya.jpeg" roundedCircle />
             <h5>Tegar Prasetya</h5>
-            <p>undifined</p>
+            <p>Game Developer</p>
             <p>Workshop - Game dev</p>
           </Col>
         </Row>

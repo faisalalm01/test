@@ -38,7 +38,7 @@ export default function Guest() {
         </Col>
         <Col className='p-3' xl={6} sm={6}>
           <Image className='mb-3' src="Assets/Workshop_TegarPrasetya.jpeg" roundedCircle />
-          <h5>Ilham Hadif Pamulia</h5>
+          <h5>Tegar Prasetya</h5>
           <p>Game Developer</p>
           <p>Workshop - Game dev</p>
         </Col>
