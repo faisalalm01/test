@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { Route, Routes, BrowserRouter as Router } from 'react-router-dom';
+import { Route, Routes, BrowserRouter } from 'react-router-dom';
 import LandingPage from './pages/LandingPage/LandingPage';
 import Talkshow from './pages/Talkshow/Talkshow';
 import Competition from './pages/Competition/Competition';
@@ -12,9 +12,8 @@ import Lomba3 from './pages/Competition/lomba/Lomba3';
 import Jadwal from './pages/Jadwal';
 
 function App() {
-  return (
-    <>
-      <Router>
+  return (  
+      <BrowserRouter>
         <Routes>
           <Route path='/' element={<LandingPage/>} />
           <Route path='Competition' element={<Competition/>}/>
@@ -25,10 +24,8 @@ function App() {
           <Route path='Seminar' element={<Seminar/>} />
           <Route path='Workshop' element={<Workshop/>} />
           <Route path='Jadwal' element={<Jadwal/>} />
-
         </Routes>
-      </Router>
-    </>
+      </BrowserRouter>
   );
 }
 

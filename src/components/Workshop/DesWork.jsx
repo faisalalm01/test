@@ -10,13 +10,19 @@ export default function Deswork() {
 
       <div className=" container mt-5 ">
         <Row xs="auto text-center">
-          <Col className='p-3' xl={6} sm={6}>
+          <Col className='p-3' xl={4} sm={6}>
             <Image className='mb-3' src="Assets/Pengisi_AI.png" roundedCircle />
             <h5>Rusnanda Farhan</h5>
             <p>Data Scientist at Sinbad</p>
             <p>Workshop - Artificial intellegencia</p>
           </Col>
-          <Col className='p-3' xl={6} sm={6} >
+          <Col className='p-3' xl={4} sm={6}>
+            <Image className='mb-3' src="Assets/Pengisi_workshop_maulana.png" roundedCircle />
+            <h5>Maulana abdul siddiq</h5>
+            <p>Undefined</p>
+            <p>Workshop - UI/UX</p>
+          </Col>
+          <Col className='p-3' xl={4} sm={6} >
             <Image className='mb-3' src="Assets/Pengisi_DataSience.png" roundedCircle />
             <h5>Rusnandi Fikri</h5>
             <p>Data Scientist at Telkom Indonesia</p>
@@ -35,17 +41,17 @@ export default function Deswork() {
             <p>Workshop - Game dev</p>
           </Col>
           <Col className='p-3' xl={4} sm={6}>
-            <Image className='mb-3' src="Assets/Pengisi_workshop_maulana.png" roundedCircle />
-            <h5>Maulana abdul siddiq</h5>
-            <p>Undefined</p>
-            <p>Workshop - UI/UX</p>
+            <Image className='mb-3' src="Assets/Workshop_TegarPrasetya.jpeg" roundedCircle />
+            <h5>Tegar Prasetya</h5>
+            <p>undifined</p>
+            <p>Workshop - Game dev</p>
           </Col>
         </Row>
       </div>
       <div className="container">
         <h3 className="mt-5">HTM & FASILITAS</h3>
         <div className="m-sm-4">
-          <p>Umum : 150.000,-</p>
+          <p>Umum : (Ada pada deskripsi Form Register)</p>
           <p>Pembayaran Via Transfer :</p>
           <p>- MANDIRI : 1390026107429 (A/N AHMAD FAOZAN) </p>
           <p>- OVO : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
