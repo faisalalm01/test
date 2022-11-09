@@ -36,7 +36,7 @@ export default function Desseminar() {
           <p>- SHOPEE PAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
           <p>- GOPAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
           <p>Konfirmasi Pembayaran:</p>
-          <p>Wa : - </p>
+          <p>Wa : 0821-3576-4818 - Ahmad Faozan </p>
           <p>email : - </p>
           <h3>Contact Person</h3>
           <p> 0877-4994-3994 (Anggit Rief)</p>

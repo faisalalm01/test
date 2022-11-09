@@ -7,7 +7,7 @@ export default function BannerWorkshop() {
             <div className="card text-bg-dark">
                 <img src="/Assets/sur.jpg" className="gambar card-img" alt="..." />
                 <div className="judul card-img-overlay text-white text-center">
-                    <h1 className="card-title font-weight-bold">Workshop INTERAKTIF</h1>
+                    <h1 className="card-title font-weight-bold">WORKSHOP INTERAKTIF</h1>
                     <p className="card-text ">
 
                         This is a wider card with supporting text below as a natural

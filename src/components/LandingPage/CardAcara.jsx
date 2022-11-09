@@ -15,8 +15,7 @@ export default function CardAcara() {
             <img src="./Assets/icons/microphone.png" alt="talkshow" className="icons-acara" />
               <Card.Title className="gold-text">TALKSHOW</Card.Title>
               <Card.Text>
-                With supporting text below as a natural lead-in to additional
-                content.
+              Acara Talkshow yang dikemas dengan suasana santai dengan tema “Prospek Kerja Industri IT Bagi Mahasiswa Vokasi”.
               </Card.Text>
             </Card.Body>
             </Button>

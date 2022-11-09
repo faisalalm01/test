@@ -10,9 +10,7 @@ export default function BannerTalksow() {
                     <h1 className="card-title font-weight-bold">TALKSHOW INTERAKTIF</h1>
                     <p className="card-text ">
 
-                        This is a wider card with supporting text below as a natural
-                        lead-in to additional content. This content is a little bit
-                        longer.
+                    Acara Talkshow yang dikemas dengan suasana santai dengan tema “Prospek Kerja Industri IT Bagi Mahasiswa Vokasi”.
                     </p>
                     <div className="d-grid gap-2 col-6 mx-auto">
                         <Button href='https://bit.ly/SEMINARTALKSHOW2022' className="btn btn-primary" type="button">

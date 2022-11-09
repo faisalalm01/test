@@ -59,7 +59,7 @@ export default function Deswork() {
           <p>- SHOPEE PAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
           <p>- GOPAY : 0821 3576 4818 (A/N AHMAD FAOZAN)</p>
           <p>Konfirmasi Pembayaran :</p>
-          <p>Wa : -</p>
+          <p>Wa : 0821-3576-4818 - Ahmad Faozan</p>
           <p>Email : -</p>
           <p>Fasilitas : Ilmu & Snack </p>
         </div>
