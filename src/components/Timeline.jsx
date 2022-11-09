@@ -18,9 +18,9 @@ export default function Timeline() {
                         <li>Workshop</li>
                         <li>Competition</li>
                     </p>
-                    <h2 className="timeline__title">Pengumpulan</h2>
+                    <h2 className="timeline__title">Competition</h2>
                     <p className="timeline_paragraph">
-                        <li>Competition(25 November, 2022)</li>
+                        <li>pengumpulan karya <br></br>(25, November 2022)</li>
                     </p>
                 </div>
                 <div className="timeline__component timeline__component--bg">
@@ -35,6 +35,10 @@ export default function Timeline() {
                             <li>Workshop - Artificial Intelegence</li>
                             <li>Workshop - UI/UX</li>
                         </ol>
+                    </p>
+                    <h2 className="timeline__title">Competition</h2>
+                    <p className="timeline__paragraph">
+                        <li>Pengumuman finalis<br></br>(28, November 2022</li>
                     </p>
                 </div>
                 <div className="timeline__middle">
@@ -54,9 +58,9 @@ export default function Timeline() {
                     <p className="timeline__paragraph">
                         <li>Workshop - Game Development</li>
                     </p>
-                        <h2 className="timeline__title">Final Comptition</h2>
-                        <li>Innovation Technology - Produk</li>
-                        <li>Web Design Competition</li>
+                    <h2 className="timeline__title">Final Comptition</h2>
+                    <li>Innovation Technology - Produk</li>
+                    <li>Web Design Competition</li>
                 </div>
                 <div className="timeline__component timeline__component--bottom timeline__component--bg">
                     <h2 className="timeline__title">Acara</h2>
@@ -64,7 +68,7 @@ export default function Timeline() {
                         <li>Seminar</li>
                         <li>Penutupan</li>
                     </p>
-                    
+
                 </div>
                 <div className="timeline__middle">
                     <div className="timeline__point"></div>
