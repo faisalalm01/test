@@ -15,10 +15,10 @@ export default class LandingPage extends Component {
   render() {
     return (
       <div>
+            <Navbars />
         <Animate to="1" from="0" attributeName="opacity">
           <header>
             <Particle />
-            <Navbars />
             <Container className='App-header' fluid={true}>
               <Row className='App-main'>
                 <Col xl={12} className='App-center mt-5 shadow-lg'>

@@ -6,6 +6,18 @@ export default function Guest() {
     <div className="mt-2">
       <h3>Pengisi Acara</h3>
       <Row xs="auto text-center mt-2">
+        <Col className='p-3' xl={6} sm={6}  >
+          <Image className='mb-3' src="Assets/seminar_Supatno.jpeg" roundedCircle />
+          <h5>Supatmo Cahyono</h5>
+          <p>UI/UX Designer Lead Kitabisa</p>
+          <p>Seminar</p>
+        </Col>
+        <Col className='p-3' xl={6} sm={12}>
+          <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />
+          <h5>Salwa Ziada Salsabilla</h5>
+          <p>CEO at Central AI</p>
+          <p>Seminar </p>
+        </Col>
         <Col className='p-3' xl={3} sm={6}>
           <Image className='mb-3' src="Assets/Pengisi_AI.png" roundedCircle />
           <h5>Rusnanda Farhan</h5>
@@ -65,18 +77,6 @@ export default function Guest() {
           <h5>Arif Hidayah</h5>
           <p>Web Developer at Dinas Sosial</p>
           <p>Talkshow</p>
-        </Col>
-        <Col className='p-3' xl={6} sm={6}  >
-          <Image className='mb-3' src="Assets/seminar_Supatno.jpeg" roundedCircle />
-          <h5>Supatmo Cahyono</h5>
-          <p>UI/UX Designer Lead Kitabisa</p>
-          <p>Seminar</p>
-        </Col>
-        <Col className='p-3' xl={6} sm={12}>
-          <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />
-          <h5>Salwa Ziada Salsabilla</h5>
-          <p>CEO at Central AI</p>
-          <p>Seminar </p>
         </Col>
       </Row>
     </div>
