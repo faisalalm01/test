@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Timeline() {
     return (
-        <div>
+        <div    >
             <div className="timeline">
                 <div className="timeline__component">
                     <div className="timeline__date timeline__date--right">1 - 25 November 2022</div>
