@@ -10,9 +10,7 @@ export default function BannerWorkshop() {
                     <h1 className="card-title font-weight-bold">WORKSHOP INTERAKTIF</h1>
                     <p className="card-text ">
 
-                        This is a wider card with supporting text below as a natural
-                        lead-in to additional content. This content is a little bit
-                        longer.
+                    Artificial Intelligence (AI),Data Science, UI/UX, Game Development
                     </p>
                     <div className="d-grid gap-2 col-6 mx-auto">
                         <Button href='https://bit.ly/WorkshopInvofest22' className="btn btn-primary" type="button">

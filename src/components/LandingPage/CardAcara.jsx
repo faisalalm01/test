@@ -48,8 +48,8 @@ export default function CardAcara() {
             <img src="./Assets/icons/student.png" alt="workshop" className="icons-acara" />
               <Card.Title className="gold-text">WORKSHOP</Card.Title>
               <Card.Text>
-                With supporting text below as a natural lead-in to additional
-                content.
+              Artificial Intelligence (AI),Data Science, UI/UX, Game Development
+
               </Card.Text>
             </Card.Body>
             </Button> 
