@@ -14,7 +14,6 @@ class Competition extends Component {
       <div>
         <Animate to="1" from="0" attributeName="opacity">
           <Particle />
-          <Navbars />
           <Container className="App-header" fluid={true}>
             <Row className="App-main">
               <Col xl={12} className="App-center mt-5">
@@ -23,6 +22,7 @@ class Competition extends Component {
             </Row>
           </Container>
         </Animate>
+          <Navbars />
         <Cards />
         <footer className="mt-5">
           <Footer />
