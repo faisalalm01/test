@@ -21,8 +21,8 @@ class Competition extends Component {
               </Col>
             </Row>
           </Container>
-        </Animate>
           <Navbars />
+        </Animate>
         <Cards />
         <footer className="mt-5">
           <Footer />
