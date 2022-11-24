@@ -3,7 +3,7 @@
 //  import {
 //    Nav,
 //    NavContainer,
-//     NavLogo,
+//     // NavLoNgo,
 //    NavItem,
 //    NavLinks,
 //    NavMenu,
@@ -65,7 +65,7 @@ export default function Navbars() {
   
     return (
       <div>
-        <Navbar className='p-3 navbar autohide' collapseOnSelect expand="lg" fixed='top'>
+        <Navbar className='p-3 navbar autohide' collapseOnSelect expand="lg" fixed=''>
           <Container>
          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
          <Navbar.Collapse id="responsive-navbar-nav">
@@ -84,53 +84,3 @@ export default function Navbars() {
     )
   }
 
-// import React, { Component } from 'react'
-// import { Nav, Navbar, Container } from 'react-bootstrap'
-
-// export default class Navbars extends Component {
-//   constructor(props) {
-//     super(props);
-//     this.toggle = this.toggleNavbar.bind(this);
-
-//     if(typeof window  !== 'undefined'){
-//       let prevScrollpos = window.pageYOffset;
-//       window.onscroll = function () {
-//         const maxScroll = document.body.clientHeight - window.innerHeight;
-//         let currentScrollPos = window.pageYOffset;
-//         if (
-//           (maxScroll > 0 && prevScrollpos > currentScrollPos && prevScrollpos <= maxScroll) 
-//         || (maxScroll <= 0 && prevScrollpos > currentScrollPos)
-//         || (prevScrollpos <= 0 && currentScrollPos <= 0)
-//         ) {
-//         document.getElementById("navbar").style.top = "0";
-//       } else {
-//         document.getElementById("navbar").style.top = "-5.0rem"; // adjustable based your need
-//       }
-//       prevScrollpos = currentScrollPos;
-//       }
-//     }
-//   }
-//   render() {
-//     return (
-//       <div>
-          
-//     <Navbar className='p-3 navbar autohide' collapseOnSelect expand="lg" fixed='top'>
-//     <Container>
-//     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-//     <Navbar.Collapse id="responsive-navbar-nav">
-//     <Nav className="mx-auto">
-//              <Nav.Link className='mx-4' href="/">Home</Nav.Link>
-//              <Nav.Link className='mx-4' href="/Talkshow">Talkshow</Nav.Link>
-//              <Nav.Link className='mx-4' href="/Seminar">Seminar</Nav.Link>
-//              <Nav.Link className='mx-4' href="/Workshop">Workshop</Nav.Link>
-//              <Nav.Link className='mx-4' href="/Competition">IT Competition</Nav.Link>
-//              <Nav.Link className='mx-4' href="/Jadwal">Jadwal</Nav.Link>
-//            </Nav>
-//          </Navbar.Collapse>
-//        </Container>
-//      </Navbar>
-    
-//       </div>
-//     )
-//   }
-// }

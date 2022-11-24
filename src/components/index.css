@@ -1,13 +1,7 @@
-/* 
-.navbar{
-    background-color: transparent;
-    color: aliceblue;
-}
-  
 .navbar.colorChange{
     background-color: #000;
     color: aliceblue;
-} */
+}
 
 .navbar {
     background: rgba(255, 254, 254, 0.4);
@@ -16,4 +10,10 @@
  #navbar {
     transition: top 0.5s
   }
- 
+
+/* nav {
+    background-color: blue;
+    height: 30px;
+    color: #fff;
+     
+} */

@@ -12,7 +12,7 @@ export default function Guest() {
           <p>UI/UX Designer Lead Kitabisa</p>
           <p>Seminar</p>
         </Col>
-        <Col className='p-3' xl={6} sm={12}>
+        <Col className='p-3' xl={6} sm={6}>
           <Image className='mb-3' src="Assets/salwa.jpeg" roundedCircle />
           <h5>Salwa Ziada Salsabilla</h5>
           <p>CEO at Central AI</p>

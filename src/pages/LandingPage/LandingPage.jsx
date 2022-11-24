@@ -15,7 +15,6 @@ export default class LandingPage extends Component {
   render() {
     return (
       <div>
-            <Navbars />
         <Animate to="1" from="0" attributeName="opacity">
           <header>
             <Particle />
@@ -26,6 +25,7 @@ export default class LandingPage extends Component {
                 </Col>
               </Row>
             </Container>
+            <Navbars />
           </header>
           <main className='mt-5'>
             <div id='acara'>
